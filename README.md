@@ -3,7 +3,7 @@ Filter for gibberish in market data
 
 //Initialy for filtering out anomalies in daily yahoo data. Using database of 285k instruments.
 
-//Data files probably were filtered on load for 20-50kb+ files(to conserve ram or avoid useless data). 
+//Data files probably were filtered on load for 20-50kb+ files(to conserve ram or avoid useless instruments). 
 
 //filtering = considering data point or period useless.
 
